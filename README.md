@@ -32,7 +32,7 @@ IT work like a second main part of my project it give command to run the project
 
 
 # MIT License
-
+https://github.com/adrishanik/GridSentry/blob/main/LICENSE
 
 
 
