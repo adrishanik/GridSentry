@@ -13,5 +13,12 @@ Some smd component send a number but some components not send anything this numb
 ## Firmware 
 
 IT work like a second main part of my project it give command to run the project.
-# 
+
+# Schematic Diagram
+
+<img width="626" height="437" alt="quickshot_261029_214111" src="https://github.com/user-attachments/assets/296120bc-c22c-41e0-bc28-21f2f510669d" />
+
+# 3d View
+
+
 
