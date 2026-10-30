@@ -20,7 +20,7 @@ IT work like a second main part of my project it give command to run the project
 
 # 3d View
 
-## (PCB/OBJ_PCB_GridSentry_7_2026-10-29.zip)
+## (https://github.com/adrishanik/GridSentry/blob/main/PCB/OBJ_PCB_GridSentry_7_2026-10-29.zip)
 
 <img width="869" height="400" alt="quickshot_261029_214050" src="https://github.com/user-attachments/assets/44dda96e-3bbb-4d7f-80e7-e5d3d7465727" />
 
