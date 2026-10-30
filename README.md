@@ -24,6 +24,17 @@ IT work like a second main part of my project it give command to run the project
 
 <img width="869" height="400" alt="quickshot_261029_214050" src="https://github.com/user-attachments/assets/44dda96e-3bbb-4d7f-80e7-e5d3d7465727" />
 
+# Bill Of Material
+
+<img width="794" height="341" alt="quickshot_261030_101213" src="https://github.com/user-attachments/assets/948929d7-ecbd-43ae-aa98-16f9f1fe064f" />
+<img width="794" height="341" alt="quickshot_261030_101213 (copy 1)" src="https://github.com/user-attachments/assets/844184b8-57df-46dc-b0aa-1e2274d80b4a" />
+<img width="805" height="151" alt="quickshot_261030_101323" src="https://github.com/user-attachments/assets/f865e4e0-2a5d-4256-94e2-ca6b78539407" />
+
+# MIT License
+
+
+
+
 
 
 
